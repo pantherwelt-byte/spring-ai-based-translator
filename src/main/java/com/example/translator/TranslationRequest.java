@@ -1,4 +1,4 @@
 package com.example.translator;
 
-record TranslationRequest(String text) {
+public record TranslationRequest(String text) {
 }
